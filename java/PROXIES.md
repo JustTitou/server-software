@@ -7,31 +7,31 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 # ✔️ Active Development
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
-- **Version:** 1.8-1.21.1
+- **Version:** 1.8 - 1.21.11
 - **Author:** md_5/SpigotMC
 - **Fork:** -
 - **Description:** Proxy that manages spigot servers and connects players to it.
 
 ### [🌠 Velocity](https://www.velocitypowered.com/)
-- **Version:** 1.7.2-1.21.1
+- **Version:** 1.7.2 - 1.21.11
 - **Author:** VelocityPowered
 - **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
 ### [💨 lightfall](https://github.com/ArclightPowered/lightfall)
-- **Version:** 1.8-1.20.4
+- **Version:** 1.8 - 1.20.4
 - **Author:** ArclightPowered
 - **Fork:** Bungeecord --> Waterfall --> lightfall
 - **Description:** A fork of Waterfall with modern forge support (requires a client side mod).
 
 ### [🚪 gate](https://github.com/minekube/gate)
-- **Version:** 1.8-1.21.1
+- **Version:** 1.8 - 1.21.11
 - **Author:** minekube
 - **Fork:** -
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 ### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
-- **Version:** 1.12-Snapshots
+- **Version:** 1.12 - Snapshots
 - **Author:** Thinkofname, maximvarentsov, ME1312
 - **Fork:** Bungeecord --> VanillaCord
 - **Description:** Bungeecord fork adding IP Forwarding support for Vanilla Minecraft Servers.
