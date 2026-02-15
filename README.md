@@ -16,4 +16,4 @@
 </details>
 
 
-- This is and updated version, the original devlopper discontinued this list.
+This is an updated version, the original devlopper discontinued this list.
